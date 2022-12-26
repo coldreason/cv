@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "770008720004",
+    "project_id": "cv-devkor",
+    "storage_bucket": "cv-devkor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770008720004:android:a11e0d849654e730b098d1",
+        "android_client_info": {
+          "package_name": "com.devkor.cv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770008720004-am4s133fblsul7gedj8jgjrue8md61m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqySLOlcEUmB9QrGRJn_MYQSZuNuuBWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770008720004-am4s133fblsul7gedj8jgjrue8md61m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
