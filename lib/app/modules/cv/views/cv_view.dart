@@ -22,7 +22,7 @@ class CvView extends GetView<CvController> {
           children: <Widget>[
             Container(
               width: CvConstants.cvCategoryWidth,
-              color: Color(0xff333333),
+              color: CustomColors.darkGray,
               child: Column(children: <Widget>[
                 CategoryArea(
                   height: CvConstants.cvProfileHeight,

@@ -21,7 +21,7 @@ void main() async {
     GetMaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Application",
-      initialRoute: Routes.CV,
+      initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     ),
   );

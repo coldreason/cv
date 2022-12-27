@@ -7,6 +7,7 @@ class FirebaseConstants {
 class CvConstants{
   static const cvCategoryWidth = 160.0;
   static const cvProfileHeight = 160.0;
+  static const cvHeightPerUnit = 80;
 }
 
 enum UserScreenType { mobile, tablet, pcWeb }
